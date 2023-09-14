@@ -9,7 +9,9 @@ In this project we are going to build a Machine Learning system that can predict
 ![Screenshot 2023-09-14 at 22 45 31](https://github.com/redjules/heart-disease/assets/106017493/1cda68f2-a01f-4661-9cc7-b93926b17912)
 
 
-# Dataset: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
+# Dataset: 
+
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 # Snapshots
 
